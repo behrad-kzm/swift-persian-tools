@@ -1,0 +1,22 @@
+{
+  "name": "persian-tools",
+  "version": "0.1.0",
+  "summary": "A short description of persian-tools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/behrad-kzm/persian-tools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "behrad-kzm": "behrad.kzm@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/behrad-kzm/persian-tools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "persian-tools/Classes/**/*"
+}

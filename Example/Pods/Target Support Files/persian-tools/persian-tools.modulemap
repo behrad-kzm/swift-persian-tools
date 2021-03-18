@@ -1,0 +1,6 @@
+framework module persian_tools {
+  umbrella header "persian-tools-umbrella.h"
+
+  export *
+  module * { export * }
+}
